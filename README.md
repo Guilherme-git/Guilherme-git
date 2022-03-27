@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Guilherme-git 😁
 
 - 🔭 Hoje trabalho como desenvolvedor FullStack
-- 🧷 Curriculo atualizado em 02/2022: <a href="https://drive.google.com/file/d/1BBB0746tpBtKxIsdPaYxQt1iujNALPYO/view?usp=sharing" target="_blank">Acessar</a> 
+- 🧷 Meu Curriculo: <a href="https://drive.google.com/file/d/1BBB0746tpBtKxIsdPaYxQt1iujNALPYO/view?usp=sharing" target="_blank">Acessar</a> 
 - 🌱 Estudando as novidades do mercado 😉
 - 📫 Email: guilherme.ataides132@gmail.com
 
