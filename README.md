@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Guilherme Ataides 😁
 
-- 🔭 Hoje trabalho como desenvolvedor FullStack
+- 🔭 Hoje trabalho como desenvolvedor Web Full Stack e Mobile
 - 🧷 Meu Currículo: <a href="https://drive.google.com/file/d/1BBB0746tpBtKxIsdPaYxQt1iujNALPYO/view?usp=sharing" target="_blank">Acessar</a> 
 - 🌱 Estudando as novidades do mercado 😉
 - 📫 Email: guilherme.ataides132@gmail.com
