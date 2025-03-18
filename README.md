@@ -6,8 +6,6 @@
 - 📰 Estudando as novidades do mercado 😉
 - 📫 Email: guilherme.ataides132@gmail.com
 
-
-
   ##
  
 <div> 
